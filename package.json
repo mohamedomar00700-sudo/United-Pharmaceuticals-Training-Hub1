@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "homepage": "https://mohamedomar00700-sudo.github.io/United-Pharmaceuticals-Training-Hub1",
   "dependencies": {
     "react-dom": "^19.2.0",
     "react": "^19.2.0",
